@@ -6,6 +6,12 @@
     grid-template-rows: 1fr;
 }
 
+.green{
+    grid-column: span 2;
+    grid-row: 1/3;
+    align-self: start;
+}
+
 
 
 .zone {
